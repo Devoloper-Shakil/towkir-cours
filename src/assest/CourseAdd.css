@@ -1,0 +1,12 @@
+.add{
+    outline:none;
+    background-color: #ff3547!important;
+    color:white !important;
+}
+
+
+.form-control:focus {
+    border-color: inherit;
+    -webkit-box-shadow: none;
+    box-shadow: none !important;
+  }

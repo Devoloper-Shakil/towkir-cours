@@ -1,0 +1,9 @@
+.showmore:hover {
+    background-color: #ffffff !important;
+    color: #f28705 !important;
+    border: 0.5px solid  #f28705!important;
+}
+.showmore{
+    background-color:  #f28705 !important;
+    color:  #ffffff !important;
+}

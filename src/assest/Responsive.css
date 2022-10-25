@@ -1,0 +1,262 @@
+@media (max-width: 374.98px) {
+    .top-banner-title{
+        font-size: 32px;
+        font-weight: 500;
+    }
+    .top-banner-sub-title{
+        font-size: 14px;
+    }
+    .top-banner-dialog{
+        padding: 10px;
+    }
+    .top-banner{
+        padding: 10px;
+    }
+    .banner-card-img{
+        width: 50px;
+        height: auto;
+    }
+    .top-count-number{
+        font-size: 14px;
+        font-weight: 500;
+    }
+    .top-count-title{
+        font-size: 12px;
+    }
+    .section-title{
+        font-size: 18px;
+    }
+    .course-card-title{
+        font-size:16px;
+    }
+    .course-card-sub-title{
+        font-size:13px;
+    }
+    .course-card-count{
+        font-size:13px;
+        font-weight: 400;
+    }
+    .course-card-count-fee{
+        font-size:13px;
+    }
+    .footer-title{
+        font-size: 16px;
+    }
+    .footer-text{
+        font-size: 13px;
+        font-weight: 300;
+    }
+    .footer-link{
+        font-size: 13px;
+        font-weight: 300;
+    }
+    .footer-bottom-section{
+        padding: 5px;
+        font-size:13px;
+    }
+
+    .between-two-section{
+        margin-top:10px;
+        margin-bottom:10px;
+    }
+
+
+    .course-details-card-count-title{
+        font-size: 13px;
+    }
+    .course-details-card-count{
+        font-size: 15px;
+        font-weight: 500;
+    }
+    .course-details-fee{
+        font-size: 22px;
+        font-weight: 400;
+    }
+
+    .course-details-title{
+        font-size: 22px;
+        font-weight: 500;
+    }
+    .course-details-sub-title{
+        font-size: 14px;
+    }
+
+
+
+}
+
+
+@media (min-width: 375.98px) and (max-width: 575.98px){
+    .top-banner-title{
+        font-size: 32px;
+        font-weight: 500;
+    }
+    .top-banner-sub-title{
+        font-size: 14px;
+    }
+    .top-banner-dialog{
+        padding: 10px;
+    }
+    .top-banner{
+        padding: 10px;
+    }
+    .banner-card-img{
+        width: 50px;
+        height: auto;
+    }
+    .top-count-number{
+        font-size: 14px;
+        font-weight: 500;
+    }
+    .top-count-title{
+        font-size: 12px;
+    }
+    .section-title{
+        font-size: 18px;
+    }
+    .course-card-title{
+        font-size:16px;
+    }
+    .course-card-sub-title{
+        font-size:13px;
+    }
+    .course-card-count{
+        font-size:13px;
+        font-weight: 400;
+    }
+    .course-card-count-fee{
+        font-size:13px;
+    }
+    .footer-title{
+        font-size: 16px;
+    }
+    .footer-text{
+        font-size: 13px;
+        font-weight: 300;
+    }
+    .footer-link{
+        font-size: 13px;
+        font-weight: 300;
+    }
+    .footer-bottom-section{
+        padding: 5px;
+        font-size:13px;
+    }
+
+
+    .course-details-card-count-title{
+        font-size: 14px;
+    }
+    .course-details-card-count{
+        font-size: 16px;
+        font-weight: 500;
+    }
+    .course-details-fee{
+        font-size: 22px;
+        font-weight: 400;
+    }
+    .course-details-title{
+        font-size: 22px;
+        font-weight: 500;
+    }
+    .course-details-sub-title{
+        font-size: 15px;
+    }
+
+}
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .top-banner-title{
+        font-size: 36px;
+        font-weight: 500;
+    }
+    .top-banner-sub-title{
+        font-size: 18px;
+    }
+    .top-banner-dialog{
+        padding: 15px;
+    }
+    .top-banner{
+        padding: 15px;
+    }
+    .banner-card-img{
+        width: 60px;
+        height: auto;
+    }
+    .top-count-number{
+        font-size: 18px;
+        font-weight: 500;
+    }
+    .top-count-title{
+        font-size: 14px;
+    }
+    .section-title{
+        font-size: 24px;
+    }
+    .course-card-title{
+        font-size:16px;
+    }
+    .course-card-sub-title{
+        font-size:13px;
+    }
+    .course-card-count{
+        font-size:13px;
+        font-weight: 400;
+    }
+    .course-card-count-fee{
+        font-size:13px;
+    }
+    .footer-title{
+        font-size: 16px;
+    }
+    .footer-text{
+        font-size: 13px;
+        font-weight: 300;
+    }
+    .footer-link{
+        font-size: 13px;
+        font-weight: 300;
+    }
+    .footer-bottom-section{
+        padding: 5px;
+        font-size:13px;
+    }
+
+
+    .course-details-card-count-title{
+        font-size: 16px;
+    }
+    .course-details-card-count{
+        font-size: 18px;
+        font-weight: 500;
+    }
+    .course-details-fee{
+        font-size: 24px;
+        font-weight: 400;
+    }
+    .course-details-title{
+        font-size: 24px;
+        font-weight: 500;
+    }
+    .course-details-sub-title{
+        font-size: 16px;
+    }
+
+
+}
+
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+}
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+}
+
+
+@media (min-width: 1200px) {
+
+}

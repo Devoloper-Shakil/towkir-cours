@@ -1,0 +1,93 @@
+.card {
+    border: none !important;
+    border-radius:6px !important;
+    box-shadow: 0 0 8px 0 rgba(57, 78, 234, 0.1);
+    transition: 0.3s;
+    text-decoration: none !important;
+}
+.card:hover {
+    box-shadow: 0 0 12px 0 rgba(57, 78, 234, 0.1);
+    text-decoration: none !important;
+    cursor:pointer;
+}
+.cardhover:hover h5{
+    color: green!important;
+}
+
+.course-card-img{
+    border-radius:6px !important;
+    width: 100%;
+    height: auto;
+}
+.course-card-title{
+    font-size:20px;
+    font-weight: 500;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+.course-card-sub-title{
+    font-size:15px;
+    font-weight: 300;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+.course-card-count{
+    font-size:15px;
+    font-weight: 500;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+.course-card-count-fee{
+    font-size:16px;
+    font-weight: 400;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+.section-title {
+    font-size: 24px;
+    font-weight: 500;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+/* button style */
+.btn {
+    border-radius: 2px !important;
+    cursor: pointer !important;
+    font-weight: 300 !important;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+.btn:focus{
+    box-shadow: none !important;;
+}
+
+.login-btn{
+    background-color: #3F3F3F !important;
+    color: #ffffff !important;
+}
+.login-btn:hover{
+    background-color: #ffffff !important;
+    color: #3F3F3F !important;
+    border: 0.5px solid #3F3F3F;
+}
+
+.btn-youtube{
+    background-color: #FF0000 !important;
+    color: #ffffff !important;
+    border: 0.5px solid #FF0000;
+}
+
+.btn-youtube:hover{
+    background-color:  #ffffff !important;
+    color:  #FF0000 !important;
+    border: 0.5px solid  #FF0000 !important;
+}
+
+.btn-enroll{
+    background-color: #28A745 !important;
+    color: #ffffff !important;
+    border: 0.5px solid #28A745;
+}
+
+.btn-enroll:hover{
+    background-color:  #ffffff !important;
+    color:  #28A745 !important;
+    border: 0.5px solid  #28A745 !important;
+}

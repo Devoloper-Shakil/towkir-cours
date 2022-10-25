@@ -1,0 +1,107 @@
+.top-banner-title {
+    font-size: 42px;
+    font-weight: 700;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+.top-banner{
+    padding: 20px 30px 30px 60px;
+    background-color: #ffffff;
+    box-shadow: 0 .125rem .25rem rgba(0,0,0,.075) !important;
+}
+.top-banner-dialog{
+    padding: 20px;
+}
+.banner-card-img{
+    width: 80px;
+    height: auto;
+}
+
+.top-banner-sub-title {
+    font-size: 18px;
+    font-weight: 300;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+.text-red {
+    color: #f28705;
+}
+
+.text-blue {
+    color: #34315D;
+}
+
+.text-dark-gray {
+    color: #575757;
+}
+.top-count-number {
+    font-size: 24px;
+    font-weight: 500;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+.top-count-title {
+    font-size: 14px;
+    font-weight: 300;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+.section-title {
+    font-size: 24px;
+    font-weight: 500;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+.footer-title {
+    font-size: 24px;
+    font-weight: 500;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+.footer-text {
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+.footer-link {
+    display: block;
+    color: #34315D !important;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+.footer-link:hover {
+    cursor: pointer !important;
+    color: #f28705 !important;
+}
+
+.course-details-card-count-title {
+    font-size: 16px;
+    font-weight: 300;
+    margin: 1px;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+.course-details-card-count {
+    font-size: 18px;
+    font-weight: 600;
+    margin: 1px;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+.course-details-fee {
+    font-size: 24px;
+    font-weight: 500;
+    margin: 1px;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+.course-details-title {
+    font-size: 32px;
+    font-weight: 600;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+.course-details-sub-title {
+    font-size: 18px;
+    font-weight: 300;
+    font-family: 'Hind Siliguri', sans-serif;
+}

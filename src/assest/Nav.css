@@ -1,0 +1,22 @@
+.navbar{
+    background: #ffffff !important;
+    box-shadow: 0 .15rem .3rem rgba(0,0,0,.075) !important;
+}
+.nav-logo{
+    padding: 5px;
+    width: 120px;
+    height: auto;
+}
+.text-red {
+    color: #f28705;
+}
+.nav-link{
+    font-family: 'Hind Siliguri', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    color: #34315D !important;
+}
+
+.nav-link:hover{
+    color: #FF284F !important;
+}
